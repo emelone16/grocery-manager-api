@@ -1,0 +1,30 @@
+{
+    "recipes": [
+        {
+            "id": 0,
+            "title": "Spaghetti",
+            "blurb": "Italian and delicious",
+            "image": "https://www.cookingclassy.com/wp-content/uploads/2018/01/instant-pot-spaghetti-12-500x500.jpg"
+        }, {
+            "id": 1,
+            "title": "Italian Sub",
+            "blurb": "Also Italian but in sandwich form",
+            "image": "https://www.landolakes.com/RecipeManagementSystem/media/Recipe-Media-Files/Recipes/Retail/x17/18742-italian-sub-600x600.jpg?ext=.jpg"
+        }, {
+            "id": 2,
+            "title": "Chicken Quesadillas",
+            "blurb": "Chicken cooked between tortillas",
+            "image": "https://www.yummyhealthyeasy.com/wp-content/uploads/2017/04/chicken-fajita-quesadilla-square.jpg"
+        }, {
+            "id": 3,
+            "title": "Grilled Cheese",
+            "blurb": "Simple yet delicious",
+            "image": "https://www.seriouseats.com/recipes/images/2013/04/20130416-grilled-cheese-variations-2-10.jpg"
+        }, {
+            "id": 4,
+            "title": "Turkey Chili",
+            "blurb": "Make it in a crockpot!",
+            "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/12/8/0/SWANSON_Black-Bean-Corn-Turkey-Chili_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371591113554.jpeg"
+        }
+    ]
+}
